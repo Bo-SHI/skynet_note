@@ -1,4 +1,4 @@
-## skynet_server.h/c 源码
+## skynet_server.* 源码
 
 ### 变量
 ```c
